@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+> [!NOTE]
+> ### Future NZ immigrant | Front-end Developer
+
+Currently aiming to relocate to New Zealand.
+
 <!--
 **aTamQuietCode/aTamQuietCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
