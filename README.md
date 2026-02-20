@@ -2,6 +2,11 @@
 
 > [!NOTE]
 > ### Future NZ immigrant | Front-end Developer (Learning)
+> ![JavaScript](https://img.shields.io)
+> ![TypeScript](https://img.shields.io)
+> ![React](https://img.shields.io)
+
+
 
 <h2 align="center">
   Kia Ora! (Hello in Māori)
