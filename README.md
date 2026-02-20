@@ -1,9 +1,24 @@
 ## Hi there 👋
 
 > [!NOTE]
-> ### Future NZ immigrant | Front-end Developer
+> ### Future NZ immigrant | Front-end Developer (Learning)
+> ![HTML5](https://img.shields.io)
+> ![CSS3](https://img.shields.io)
 
-Currently aiming to relocate to New Zealand.
+
+<h2 align="center">
+  Kia Ora! (Hello in Māori)
+</h2>
+
+<p align="center">
+  <b>Currently aiming to relocate to New Zealand.</b>
+</p>
+
+<!--
+![JavaScript](https://img.shields.io)
+![HTML5](https://img.shields.io)
+![CSS3](https://img.shields.io)
+-->
 
 <!--
 **aTamQuietCode/aTamQuietCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
