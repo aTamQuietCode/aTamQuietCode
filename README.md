@@ -2,11 +2,9 @@
 
 > [!NOTE]
 > ### Future NZ immigrant | Front-end Developer (Learning)
-> ![JavaScript](https://img.shields.io)
-> ![TypeScript](https://img.shields.io)
+> ![JS](https://img.shields.io)
+> ![TS](https://img.shields.io)
 > ![React](https://img.shields.io)
-
-
 
 <h2 align="center">
   Kia Ora! (Hello in Māori)
@@ -16,10 +14,15 @@
   <b>Currently aiming to relocate to New Zealand.</b>
 </p>
 
+<!--
+<img src="https://img.shields.io" alt="JavaScript" />
+<img src="https://img.shields.io" alt="TypeScript" />
+<img src="https://img.shields.io" alt="React" />
+
 ![JavaScript](https://img.shields.io)
 ![TypeScript](https://img.shields.io)
 ![React](https://img.shields.io)
-
+-->
 
 <!--
 ![JavaScript](https://img.shields.io)
