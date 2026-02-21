@@ -2,9 +2,13 @@
 
 > [!NOTE]
 > ### Future NZ immigrant | Front-end Developer (Learning)
-> ![JS](https://img.shields.io)
-> ![TS](https://img.shields.io)
-> ![React](https://img.shields.io)
+> ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+> ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<!--
+![Test Badge](https://img.shields.io/badge/Status-Success-brightgreen)
+-->
 
 <h2 align="center">
   Kia Ora! (Hello in Māori)
@@ -14,21 +18,7 @@
   <b>Currently aiming to relocate to New Zealand.</b>
 </p>
 
-<!--
-<img src="https://img.shields.io" alt="JavaScript" />
-<img src="https://img.shields.io" alt="TypeScript" />
-<img src="https://img.shields.io" alt="React" />
 
-![JavaScript](https://img.shields.io)
-![TypeScript](https://img.shields.io)
-![React](https://img.shields.io)
--->
-
-<!--
-![JavaScript](https://img.shields.io)
-![HTML5](https://img.shields.io)
-![CSS3](https://img.shields.io)
--->
 
 <!--
 **aTamQuietCode/aTamQuietCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
