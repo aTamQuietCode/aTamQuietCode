@@ -1,4 +1,4 @@
-<!--
+
 ## Hi there 👋
 
 > [!NOTE]
@@ -9,8 +9,9 @@
 
 ## Kia Ora! (Hello in Māori)
 Currently aiming to relocate to New Zealand.
--->
 
+
+<!--
 <h2 align="center">Hi there 👋</h2>
 <p align="center">
   <strong>ℹ️ NOTE</strong>
@@ -25,6 +26,7 @@ Currently aiming to relocate to New Zealand.
 
 <h2 align="center">Kia Ora! (Hello in Māori)</h2>
 <p align="center">Currently aiming to relocate to New Zealand.</p>
+-->
 
 <!--
 ![Test Badge](https://img.shields.io/badge/Status-Success-brightgreen)
