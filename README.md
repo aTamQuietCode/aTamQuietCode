@@ -23,8 +23,8 @@ Currently aiming to relocate to New Zealand.
   <br>
 </p>
 
-![Your GitHub stats](https://github-readme-stats.vercel.app?username=aTamQuietCode&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app?username=aTamQuietCode&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=aTamQuietCode&show_icons=true&theme=radical)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aTamQuietCode&layout=compact&theme=radical)
 
 <h2 align="center">Kia Ora! (Hello in Māori)</h2>
 <p align="center">Currently aiming to relocate to New Zealand.</p>
