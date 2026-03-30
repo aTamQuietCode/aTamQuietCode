@@ -24,7 +24,7 @@ Currently aiming to relocate to New Zealand.
   <br>
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aTamQuietCode&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=aTamQuietCode&show_icons=true&theme=radical&cache_seconds=1800)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aTamQuietCode&layout=compact&theme=radical)
 
 <!--
